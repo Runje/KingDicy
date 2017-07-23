@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DicyPlayground</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="enter_username">Gib einen Benutzernamen ein</string>
+    <string name="title_activity_online_lobby">OnlineLobbyActivity</string>
+    <string name="yes">JA</string>
+    <string name="no">Nein</string>
+    <string name="title_activity_start">Dicy</string>
+</resources>
